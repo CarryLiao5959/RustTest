@@ -1,0 +1,6 @@
+[package]
+name = "hellorust"
+version = "0.1.0"
+description = "A simple Hello Rust program"
+
+[dependencies]
